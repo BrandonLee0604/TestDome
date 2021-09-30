@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Software Develop Learning/TestDome/C++/Two Sum/main.cpp
+stdexcept
+-
+iostream
+-
+vector
+-
+utility
+-
+unordered_map
+-
+algorithm
+-
+

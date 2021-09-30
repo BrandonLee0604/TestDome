@@ -1,0 +1,2 @@
+D:\TestDome\TestDome\Debug\TestDome.exe
+D:\TestDome\TestDome\Debug\TestDome.pdb

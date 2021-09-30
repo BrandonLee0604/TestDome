@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Self Learning/TestDome/C++/SocialNetwork/main.cpp
+vector
+-
+string
+-
+stdexcept
+-
+iostream
+-
+set
+-
+algorithm
+-
+

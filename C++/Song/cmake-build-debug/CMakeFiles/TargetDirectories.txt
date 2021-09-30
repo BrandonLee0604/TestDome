@@ -1,0 +1,3 @@
+D:/TestDome/C++/Song/cmake-build-debug/CMakeFiles/Song.dir
+D:/TestDome/C++/Song/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TestDome/C++/Song/cmake-build-debug/CMakeFiles/rebuild_cache.dir
